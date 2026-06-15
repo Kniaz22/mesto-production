@@ -1,0 +1,25 @@
+{
+  "name": "mesto-ad",
+  "version": "1.0.0",
+  "description": "Стартовый набор для выполнения проектной работы Место",
+  "main": "vite.config.js",
+  "devDependencies": {
+    "vite": "^8.0.13"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npx vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kniaz22/mesto-ad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kniaz22/mesto-ad/issues"
+  },
+  "homepage": "https://github.com/Kniaz22/mesto-ad#readme"
+}
